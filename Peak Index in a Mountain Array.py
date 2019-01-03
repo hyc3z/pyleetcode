@@ -18,3 +18,4 @@ class Solution:
                 x2 = x1
                 x1 = gold2(l, x2)
         return x1
+
